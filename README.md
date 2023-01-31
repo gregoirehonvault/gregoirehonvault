@@ -3,7 +3,7 @@
 
 - 🔭 I did an internship at [the CTF France project](https://git.thcon.party/Whidix/ctf_france/-/tree/main)
 
-- 🌱 I’m currently learning **KML, OpenMP, Java**
+- 🌱 I’m currently learning **OCAML, OpenMP, Java**
 
 - 📄 Know about my experiences at [https://greghonvault.wixsite.com/eportfolio](https://greghonvault.wixsite.com/eportfolio)
 
