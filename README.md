@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences at [https://greghonvault.wixsite.com/eportfolio](https://greghonvault.wixsite.com/eportfolio)
 
-- 🤝 I’m looking for an internship **from 01/06/23 to 20/09/23**
+- 🤝 I’m looking for 2/3 months internship **starting from 05/06/23** in Software Engineering
 
 - 📫 How to reach me: **greghonvault@orange.fr**
 
